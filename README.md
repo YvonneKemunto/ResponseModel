@@ -1,2 +1,2 @@
-# ResponseModel
-Using a response model and decision tree as the estimator
+# ResponseModel 
+Response model assignment teaching decision tree estimation in Python.
